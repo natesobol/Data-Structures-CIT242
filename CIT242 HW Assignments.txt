@@ -1,0 +1,79 @@
+HERE IS A LIST OF THE POSSIBLE HW ASSIGNMENTS. IF YOU DO MORE THAN 3 THEN I
+WILL AWARD YOU EXTRA CREDIT !!!
+
+Subject: BHCC Homework
+
+==========================================================
+PLEASE NOTE THAT I PUT THE REQUIREMEMNTS FOR THE FINAL PROJECT AT THE TOP AND THE BOTTOM
+OF THIS DOCUMENT JUST IN CLASE.  FOR ALL OTHER CLASS ASSIGNMENTS PLEASE SCROLL DOWN!!!!
+
+Final Project
+
+This is based on what we did in class. Look at the programs at the following link:
+H:\CIT242Spring2017\XML-Field_Added-UpdateAdded
+For the final you are to make up a program using the above as a template.
+Your program is of your own design and must have at least 3 fields that are all different type.
+Please do not just edit my program as that is extemelt obvious.
+Good luck,
+Jack
+
+
+***HW1
+========
+
+Add the Listdelete Method to the StackApp.java and the QueueApp.java
+
+
+
+***HW2
+====================
+Look at the code from the LinkedListDemo.java file and add a method to the
+StackApp.java and QueueApp.java programs that
+will insert a node at a specific location
+
+example
+listinsert(3,part);
+This is a modification of the listinsert function that I showed you but this
+one will add a node at any position of the stack or queue.
+If you write this correctly it should work for either without modification.
+
+
+
+
+*** Extra Credit 1
+=================
+Again looking at the code for the LinkedListDemo.java write 2 methods one that
+will
+listinsertfirst(part);
+listinsertlast(part);
+
+remember that "part" is the object of the class Entry !!!!!
+
+***HW 3
+========
+Using what you have learned in packages take the
+StackApp.java program
+And place Class Entry in a package as well as Class NODE
+Show that the code runs with your two packages!!!!
+
+===============================================================================
+====
+***HW 4
+Take the TableDisplay-3-Fields and add another field from the Access Database
+============================================================
+***HW 5
+Make a structure like we did in class for the DFS and BFS. Now display the
+output using the DFS and BFS programs.
+===============================================================================
+======
+
+Final Project
+
+This is based on what we did in class. Look at the programs at the following link:
+H:\CIT242Spring2017\XML-Field_Added-UpdateAdded
+For the final you are to make up a program using the above as a template.
+Your program is of your own design and must have at least 3 fields that are all different types.
+Please do not just edit my program as that is extremely obvious.
+Good luck,
+Jack
+339 222 4247 (Cell)
